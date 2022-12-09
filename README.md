@@ -1,6 +1,6 @@
 # Hotel-booking-data
 
-# Goal: Developing a database to analyze and visualize Hotel booking data.
+# Goal: Develop a database to analyze and visualize Hotel booking data.
 
 Questions that were answered: 
 
